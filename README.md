@@ -1,3 +1,4 @@
 # odin-recipes
 recipe website project
 This is a great test project for setting up my King of Cups blog site. In this exercise, I will set up a homepage and 3 recipe pages for a simple recipe website. I'll be using all the skills I've been learning for using basic html, including creating links within a website and adding images to pages. 
+Reflection: the most important thing I learned is to keep file names simple and easy because you will have to type them over and over again, especially when things go wrong! I had a problem with images not working on git hub, but I was able to solve it by googling it. It was a pain but I'm really proud I figured it out on my own and now I can fix it if it happens again. I also discovered that I must really love coding, because I spent hours and hours working on this silly thing and didn't even notice how much time was passing. 
